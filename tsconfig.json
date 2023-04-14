@@ -1,0 +1,52 @@
+{
+  "files": [],
+  "compilerOptions": {
+    "allowSyntheticDefaultImports": false,
+    "composite": false,
+    "outDir": "./lib",
+    "rootDir": "./src",
+    "noEmit": true,
+    "module": "esnext",
+    "esModuleInterop": true,
+    "forceConsistentCasingInFileNames": true,
+    "strict": true,
+    "allowJs": false
+  },
+  "exclude": [
+    "packages/*/lib/**",
+    "**/*.test.ts",
+    "**/*.test.tsx"
+  ],
+  "references": [
+    {
+      "path": "packages/timed"
+    },
+    {
+      "path": "packages/stream"
+    },
+    {
+      "path": "packages/source-maps"
+    },
+    {
+      "path": "packages/resolvable"
+    },
+    {
+      "path": "packages/proxy"
+    },
+    {
+      "path": "packages/promisify"
+    },
+    {
+      "path": "packages/mutex"
+    },
+    {
+      "path": "packages/is-plain-object"
+    },
+    {
+      "path": "packages/hash-object"
+    },
+    {
+      "path": "packages/context"
+    }
+  ]
+}
