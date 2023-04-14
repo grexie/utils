@@ -1,5 +1,5 @@
 {
-  "version": "1.0.0",
+  "version": "1.0.5",
   "private": true,
   "workspaces": [
     "packages/*"
@@ -26,7 +26,7 @@
     "@babel/preset-env": "^7.18.2",
     "@babel/preset-react": "^7.17.12",
     "@babel/preset-typescript": "^7.17.12",
-    "@grexie/monorepo": "^1.0.8",
+    "@grexie/monorepo": "^1.0.12",
     "@release-it-plugins/workspaces": "^3.2.0",
     "@testing-library/react": "^14.0.0",
     "@types/jest": "^29.5.0",

@@ -1070,10 +1070,10 @@
   resolved "https://registry.yarnpkg.com/@grexie/compose/-/compose-0.1.17.tgz#929e31da1fce426d34aec09c4726547a98bfc12e"
   integrity sha512-+SSWW4rdszJP67mN5YIX5gcwEvPtSV1CFnAQMZ9DndAUM4ocDhpx+V3ncQAGUmkdLCVzYBxjOpLwcl8x4DNrdQ==
 
-"@grexie/monorepo@^1.0.8":
-  version "1.0.8"
-  resolved "https://registry.yarnpkg.com/@grexie/monorepo/-/monorepo-1.0.8.tgz#c871430e71c041cdef9e30c60a84a0e4639be445"
-  integrity sha512-n+DApYwl9Xf1KBKN11NcTf2i1cZTly1Fax4hJaPYQzN+DBqoliyvYpGAP385mnJ4LntnVBbwf4FVIfGPi+hN9A==
+"@grexie/monorepo@^1.0.12":
+  version "1.0.12"
+  resolved "https://registry.yarnpkg.com/@grexie/monorepo/-/monorepo-1.0.12.tgz#1ec6783f3d214e0cb217894b70e2683e638bdd29"
+  integrity sha512-0XhCgheQ5KGY1GDIt8CT5Kh21N7uA4DaxwjaSZ/1yMpmQvM49SV03Su/t7dsiaCDBmUWrCal8+W3XkiI0sP9Fw==
   dependencies:
     "@babel/core" "^7.21.4"
     "@babel/plugin-transform-runtime" "^7.21.4"
