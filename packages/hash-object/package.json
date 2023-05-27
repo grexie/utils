@@ -19,6 +19,7 @@
   },
   "sideEffects": false,
   "dependencies": {
+    "crc-32": "^1.2.2",
     "object-hash": "^3.0.0"
   },
   "devDependencies": {
